@@ -2,36 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>msjaison</title>
-    <link>http://msjaison.in/</link>
+    <link>https://msjaison.in/</link>
     <description>Recent content on msjaison</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://msjaison.in/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://msjaison.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://msjaison.in/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://msjaison.in/about/</guid>
-      <description>Updating soon this section</description>
+      <link>https://msjaison.in/about/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://msjaison.in/about/</guid>
+      <description>I’m a DevOps Engineer with over 7 years of experience in designing and implementing solutions across diverse tech stacks. My journey spans various industries where I’ve worked on building and maintaining scalable, efficient, and secure infrastructures.&#xA;My expertise covers everything from automating complex deployments, managing cloud infrastructure (AWS, GCP, Azure), and orchestrating containers (Docker, Kubernetes), to configuring CI/CD pipelines with tools like Jenkins and GitHub Actions. I’m passionate about optimizing workflows, ensuring high availability, and helping teams ship faster while improving reliability.</description>
     </item>
-    
     <item>
-      <title>About</title>
-      <link>http://msjaison.in/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://msjaison.in/contact/</guid>
-      <description>Navigate to home page</description>
+      <title>Contact</title>
+      <link>https://msjaison.in/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://msjaison.in/contact/</guid>
+      <description>You can reach out to me via email at mkumar.devlife@gmail.com for inquiries, collaborations, or just to chat about DevOps and tech.&#xA;Follow me on Linkedin @msjaison for more updates and insights.</description>
     </item>
-    
     <item>
       <title>Projects</title>
-      <link>http://msjaison.in/projects/</link>
+      <link>https://msjaison.in/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://msjaison.in/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <guid>https://msjaison.in/projects/</guid>
+      <description>DevOps Automation Framework&#xA;A custom automation framework that streamlines CI/CD processes using Jenkins, Docker, and Kubernetes. This project involved setting up automated testing, container orchestration, and scalable deployments across multiple environments.&#xA;Cloud Infrastructure Setup (AWS)&#xA;Designed and implemented a highly available and secure AWS cloud infrastructure using Terraform and Ansible. The project included provisioning EC2 instances, configuring VPCs, setting up auto-scaling, and load balancing for a microservices-based architecture.&#xA;Monitoring and Logging System</description>
     </item>
-    
   </channel>
 </rss>

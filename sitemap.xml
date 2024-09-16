@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://msjaison.in/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://msjaison.in/about/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://msjaison.in/contact/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://msjaison.in/</loc>
+    <lastmod>2024-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://msjaison.in/authors/</loc>
+    <loc>https://msjaison.in/authors/</loc>
   </url><url>
-    <loc>http://msjaison.in/categories/</loc>
+    <loc>https://msjaison.in/categories/</loc>
   </url><url>
-    <loc>http://msjaison.in/</loc>
+    <loc>https://msjaison.in/contact/</loc>
   </url><url>
-    <loc>http://msjaison.in/projects/</loc>
+    <loc>https://msjaison.in/projects/</loc>
   </url><url>
-    <loc>http://msjaison.in/series/</loc>
+    <loc>https://msjaison.in/series/</loc>
   </url><url>
-    <loc>http://msjaison.in/tags/</loc>
+    <loc>https://msjaison.in/tags/</loc>
   </url>
 </urlset>
